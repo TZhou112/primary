@@ -1,11 +1,7 @@
+作为一个c++新手，这里是我完成的一些小项目
 
-There are some c++ primary instances
+所有项目都基于VS环境
 
-welcome learning together :)
+包括一个演讲比赛系统，机房预约系统，一个职工管理系统和一个通讯录小程序
 
-
-	-feature-A
-
-	-fix-B
-
-	-feature-C
+接下来继续探索C++吧！加油！
